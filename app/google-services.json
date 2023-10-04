@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "353036542866",
+    "firebase_url": "https://cbsc-class10.firebaseio.com",
+    "project_id": "cbsc-class10",
+    "storage_bucket": "cbsc-class10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353036542866:android:eb95c28b256e95db",
+        "android_client_info": {
+          "package_name": "com.cbscboard.cbscclass10board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353036542866-57k0j4cb16hg2nfmp3thvfiaih764qs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZWjrAl3GiA3bdzNTK5nfNKiYH1O0VN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
